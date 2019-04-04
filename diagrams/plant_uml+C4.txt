@@ -1,0 +1,5 @@
+Free
+Text-based
+Integrated in Visual Code, Confluence, WP...
+
+C4 ( https://c4model.com/ ) support
