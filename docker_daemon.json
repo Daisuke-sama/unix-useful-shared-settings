@@ -1,0 +1,14 @@
+{
+  "registry-mirrors": [],
+  "insecure-registries": [],
+  "debug": true,
+  "experimental": false,
+  "dns": [
+    "172.17.0.1",
+    "8.8.8.8",
+    "8.8.4.4",
+    "10.6.0.16",
+    "10.6.0.6",
+    "10.0.0.2"
+  ]
+}
