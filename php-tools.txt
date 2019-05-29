@@ -1,0 +1,2 @@
+php insight (easy and verbose static analysis): https://github.com/nunomaduro/phpinsights
+mem leak detector (php extension): https://github.com/BitOne/php-meminfo
