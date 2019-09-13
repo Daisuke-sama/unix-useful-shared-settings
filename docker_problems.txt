@@ -1,0 +1,12 @@
+Port 2375 not listening
+https://github.com/docker/for-win/issues/3546#issuecomment-483311479
+
+
+Can't mount unexisting file oro directory
+Can't mount file as directory
+Can't mount directory as file
+Other mounting issues/3546#issuecomment-483311479
+> rename file that can't be mounted, run the container, stop the container, rename back the file and start the container again
+> reset the drive credentials in docker settings
+> reboot OS
+> reset docker to factory defaults
