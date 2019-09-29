@@ -10,3 +10,8 @@ Other mounting issues/3546#issuecomment-483311479
 > reset the drive credentials in docker settings
 > reboot OS
 > reset docker to factory defaults
+
+
+
+Error starting userland proxy: listen tcp 0.0.0.0:2222: bind: An attempt was made to access a socket in a way forbidden by its access permissions.
+http://blog.sixthimpulse.com/2019/01/docker-for-windows-port-reservations/
