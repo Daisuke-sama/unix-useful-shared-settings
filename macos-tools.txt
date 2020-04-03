@@ -1,0 +1,6 @@
+macos cheatsheet -> http://www.mediaatelier.com/CheatSheet/
+better shell than BASH is  ZSH -> http://code.joejag.com/2014/why-zsh.html
+better terminal than default iTerm2 -> https://www.iterm2.com/
+sublime http://www.sublimetext.com/3
+GUI for brew is CakeBrew -> https://github.com/brunophilipe/Cakebrew
+
